@@ -25,5 +25,5 @@ int main()
 		}
 	}
 	cout<<"customer with id"<<id;
-	cout<<"repated for "<<maxi <<"times";
+	cout<<"visited for "<<maxi <<"times";
 }
